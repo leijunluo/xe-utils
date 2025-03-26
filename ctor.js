@@ -1,1 +1,1 @@
-module.exports = require('./methods/xe-utils')
+module.exports = require('./methods')
